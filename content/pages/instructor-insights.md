@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 50854470-7c40-ff72-c925-a9488520afab
 ---
@@ -62,28 +64,6 @@ Curriculum Information
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Room with 10 tables arranged in a rectangle, chairs, and a podium. A bookshelf with books along the right wall. A large window on the left wall.]({{< resource_file ceb326c9-5017-727d-87eb-ec3ed98fcce0 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Students attended lectures in this seminar room, which featured moveable tables and chairs, along with a LCD projector and screen.
-    
-*   ![Lab space featuring workbench, chair, and shelving. White bottles with orange caps on the shelves.]({{< resource_file 448a77d5-a78d-ce77-b6af-4e9ca83134cc >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Laboratory
-    
-    Students met in a laboratory like this one to dissect sheep brains during session 20.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

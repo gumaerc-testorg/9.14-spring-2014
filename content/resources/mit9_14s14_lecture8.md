@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains the information regarding CNS structure at the spinal
   level, autonomic and enteric nervous systems notes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-14-brain-structure-and-its-origins-spring-2014/b7cbf888518c20834b5e2c796253f257_MIT9_14S14_Lecture8.pdf
+file: /media/courses/9-14-brain-structure-and-its-origins-spring-2014/b7cbf888518c20834b5e2c796253f257_MIT9_14S14_Lecture8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '9.14 Lecture 8: CNS Structure at the Spinal Level, Autonomic and Enteric Nervous
   Systems Notes'

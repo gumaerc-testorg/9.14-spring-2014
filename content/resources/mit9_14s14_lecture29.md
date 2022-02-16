@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains the information regarding core pathways of the limbic
   system, and remembering meaningful places notes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-14-brain-structure-and-its-origins-spring-2014/3414df0423e15b20737931c9008b2c58_MIT9_14S14_Lecture29.pdf
+file: /media/courses/9-14-brain-structure-and-its-origins-spring-2014/3414df0423e15b20737931c9008b2c58_MIT9_14S14_Lecture29.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '9.14 Lecture 29: Core Pathways of the Limbic System, and Remembering Meaningful
   Places Notes'

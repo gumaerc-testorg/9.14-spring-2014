@@ -2,8 +2,12 @@
 content_type: resource
 description: This file contains the information regarding 9.14 final review questions
   2011.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-14-brain-structure-and-its-origins-spring-2014/2c616355278f1374de2ef2a1c810f3da_MIT9_14S14_FinalRevQue2011.pdf
+file: /media/courses/9-14-brain-structure-and-its-origins-spring-2014/2c616355278f1374de2ef2a1c810f3da_MIT9_14S14_FinalRevQue2011.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: 9.14 Final Review Questions 2011
 uid: 2c616355-278f-1374-de2e-f2a1c810f3da

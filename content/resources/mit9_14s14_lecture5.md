@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This file contains the information regarding the ancestors of mammals:
   sketch of brain notes.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-14-brain-structure-and-its-origins-spring-2014/b7193468583f8a200383f975727d3fe8_MIT9_14S14_Lecture5.pdf
+file: /media/courses/9-14-brain-structure-and-its-origins-spring-2014/b7193468583f8a200383f975727d3fe8_MIT9_14S14_Lecture5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '9.14 Lecture 5: The Ancestors of Mammals: Sketch of Brain Notes'
 uid: b7193468-583f-8a20-0383-f975727d3fe8

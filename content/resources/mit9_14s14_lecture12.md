@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains the information regarding forebrain of mammals with
   comparative studies relevant to its evolution Notes of End Session II Notes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-14-brain-structure-and-its-origins-spring-2014/97ab232bbe6936f6de1a001f0d00fb4f_MIT9_14S14_Lecture12.pdf
+file: /media/courses/9-14-brain-structure-and-its-origins-spring-2014/97ab232bbe6936f6de1a001f0d00fb4f_MIT9_14S14_Lecture12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '9.14 Lecture 12: Forebrain of mammals with comparative studies relevant to
   its evolution Notes.'
