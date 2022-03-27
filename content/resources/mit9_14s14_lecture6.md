@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 19224a13-4dc2-853c-831d-7eaf353e57f2
 resourcetype: Document
 title: '9.14 Lecture 6: Some Specializations Involving Head Receptors Notes'
 uid: ec1a4fc7-8d71-8b5d-3a04-35c0fd58d769

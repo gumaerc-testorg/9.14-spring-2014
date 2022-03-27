@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 19224a13-4dc2-853c-831d-7eaf353e57f2
 resourcetype: Document
 title: '9.14 Lecture 21: Sensory Systems 2: Visual Systems Notes.'
 uid: ac731f85-fea1-af6a-8a8d-f5a9b369d5a5

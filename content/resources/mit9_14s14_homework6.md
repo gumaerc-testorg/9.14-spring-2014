@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c687985d-1788-7eef-f005-257845718494
 resourcetype: Document
 title: 9.14 Homework Assignment 6
 uid: 30d8b146-fb8a-549f-eebd-3e20bbdaa77a

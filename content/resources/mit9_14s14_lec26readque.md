@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: b70fd933-c826-d046-3486-e5588b6773ad
 resourcetype: Document
 title: 9.14 Lecture 26 Reading Questions
 uid: 84988106-3a40-76ee-647a-ea6d1d8a9213

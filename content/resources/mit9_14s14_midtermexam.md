@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 9f90e4b0-68b1-ed44-887a-d62b12352a1b
 resourcetype: Document
 title: ' 9.14 Midterm Exam 2014 Key'
 uid: 82c6f94c-2bc4-b656-91f4-aa456bcb8ae6

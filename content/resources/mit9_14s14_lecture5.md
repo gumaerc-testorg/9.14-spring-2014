@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 19224a13-4dc2-853c-831d-7eaf353e57f2
 resourcetype: Document
 title: '9.14 Lecture 5: The Ancestors of Mammals: Sketch of Brain Notes'
 uid: b7193468-583f-8a20-0383-f975727d3fe8

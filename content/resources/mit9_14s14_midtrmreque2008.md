@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a4984601-d9ce-2974-e40c-3c1ce780ba0e
 resourcetype: Document
 title: 9.14 Midterm Review Student Questions 2008
 uid: 41e816fc-cd66-0159-6977-38be4909cd02

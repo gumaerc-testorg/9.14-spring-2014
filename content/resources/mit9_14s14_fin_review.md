@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a4984601-d9ce-2974-e40c-3c1ce780ba0e
 resourcetype: Document
 title: '9.14: Final Review figures for special study'
 uid: c4785eed-637f-9a74-7b37-49a0ca626bce

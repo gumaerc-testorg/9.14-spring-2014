@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a4984601-d9ce-2974-e40c-3c1ce780ba0e
 resourcetype: Document
 title: 9.14 Final Review Questions Chapters 18-34
 uid: 3f10e8f8-1bb3-ae8a-3f89-f40abcd74bb1

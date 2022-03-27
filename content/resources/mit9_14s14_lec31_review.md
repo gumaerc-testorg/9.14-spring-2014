@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a4984601-d9ce-2974-e40c-3c1ce780ba0e
 resourcetype: Document
 title: '9.14 Class 32: REVIEW'
 uid: ed766ae8-589f-ac9c-63d4-4b3c47689930

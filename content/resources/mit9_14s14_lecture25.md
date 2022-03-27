@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 19224a13-4dc2-853c-831d-7eaf353e57f2
 resourcetype: Document
 title: '9.14 Lecture 25: Sensory systems 3: Auditory systems continued Notes.'
 uid: 6bf3e51b-a922-b7fb-81a6-fbb5dd3d339e

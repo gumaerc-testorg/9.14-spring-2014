@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 19224a13-4dc2-853c-831d-7eaf353e57f2
 resourcetype: Document
 title: '9.14 Lecture 26:  Introduction to the Forebrain and its Adaptive Prizes Notes'
 uid: 087a0055-4ad0-648e-48b7-48573dd9e6e1

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 19224a13-4dc2-853c-831d-7eaf353e57f2
 resourcetype: Document
 title: '9.14 Lecture 10: Hindbrain & Cranial Nerves; Hindbrain Specializations Notes'
 uid: fb7005d1-d0c3-4711-efed-7bc2034ed6f4

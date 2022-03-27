@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 19224a13-4dc2-853c-831d-7eaf353e57f2
 resourcetype: Document
 title: '9.14 Lecture 38: Development and PlasticityConclusions about Neocortex Notes'
 uid: 9999b05b-3695-7cf1-6b64-6098df31fec1

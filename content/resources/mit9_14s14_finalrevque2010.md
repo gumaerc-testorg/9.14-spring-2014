@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a4984601-d9ce-2974-e40c-3c1ce780ba0e
 resourcetype: Document
 title: 9.14 Final Review Questions 2010
 uid: 37513b70-7a86-94e5-7c88-3e5aa0c3f0c6
