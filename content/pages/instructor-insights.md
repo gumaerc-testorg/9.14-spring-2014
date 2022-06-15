@@ -1,27 +1,27 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 50854470-7c40-ff72-c925-a9488520afab
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _9.14 Brain Structure and Its Origins_ as it was taught by professor Gerald E. Schneider in Spring 2014.
 
 This class is taken by MIT undergraduates with a special interest in learning about brain structure and how this structure underlies brain functions. The lectures are designed to teach key concepts as well as definitions of specialized terms used commonly by neuroscientists. Brain development and evolution are discussed to help students gain an understanding of why the central nervous systems of mammals (including humans) are put together the way they are.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   To develop an interest in the brain and its functions, as well as its evolutionary and developmental origins
-*   To develop a broad understanding of mammalian functional neuroanatomy
-*   To gain familiarity with important neuroanatomical terminology
+- To develop an interest in the brain and its functions, as well as its evolutionary and developmental origins
+- To develop a broad understanding of mammalian functional neuroanatomy
+- To gain familiarity with important neuroanatomical terminology
 
 ### Possibilities for Further Study/Careers
 
@@ -29,12 +29,11 @@ Many students enrolled in this course go on to medical schools or to graduate sc
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "Dissecting a sheep’s brain helps students gain a better sense of the brain’s three-dimensional structure, which makes the course material more concrete." "—Gerald Schneider" >}}
 
-_Below, Professor Schneider describes various aspects of how he taught _9.14 Brain Structure and Its Origins_._
+_Below, Professor Schneider describes various aspects of how he taught_ 9.14 Brain Structure and Its Origins.
 
 ### Course and Resource Development
 
@@ -50,12 +49,11 @@ Another strategy I use to help students learn the complex material in this cours
 
 Dissecting a sheep’s brain helps students gain a better sense of the brain’s three-dimensional structure, which makes the course material more concrete. This is important because, during class sessions, we view and discuss many illustrations; relating the illustrations to a real brain is crucial. The dissection experience increases students’ ability to think dynamically about brain illustrations, and for this reason, I would prefer to include at least two dissection sessions instead of only one.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-[_9.01 Introduction to Neuroscience_](/courses/9-01-introduction-to-neuroscience-fall-2007/)
+[_9.01 Introduction to Neuroscience_](/courses/9-01-introduction-to-neuroscience-fall-2007)
 
 ### Requirements Satisfied
 
@@ -67,8 +65,7 @@ Every spring semester
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -76,10 +73,11 @@ The students' grades were based on the following activities:
 - 25% Midterm exam
 - 40% Final exam
 
-Student Information
--------------------
+## Student Information
 
-![On average, 16 students take this course each time it is offered.]({{< resource_file 537ff174-96af-c6b4-f4bd-535633a2db4e >}})
+### Enrollment
+
+16 students
 
 ### Breakdown by Year
 
@@ -95,22 +93,19 @@ Students have met basic MIT undergraduate requirements in physics, mathematics, 
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
-*   Met 3 times per week for 1 hour per session; 38 sessions total; mandatory attendance.
-*   Some classes began with a short quiz.
-*   Students completed a sheep brain dissection during lecture session 20.
-*   Students took a midterm and final exam.
-*   Two class sessions, lecture 18 and lecture 38, included review of material for the midterm or final exam, respectively.
+- Met 3 times per week for 1 hour per session; 38 sessions total; mandatory attendance.
+- Some classes began with a short quiz.
+- Students completed a sheep brain dissection during lecture session 20.
+- Students took a midterm and final exam.
+- Two class sessions, lecture 18 and lecture 38, included review of material for the midterm or final exam, respectively.
 
-Out of Class
-------------
+### Out of Class
 
-*   Each lecture had associated readings (required plus supplemental) to be completed in advance of the lecture.
-*   Students completed 7 homework assignments based on literature and concepts covered in class with questions devoted to exploring particular ideas in depth.
+- Each lecture had associated readings (required plus supplemental) to be completed in advance of the lecture.
+- Students completed 7 homework assignments based on literature and concepts covered in class with questions devoted to exploring particular ideas in depth.
