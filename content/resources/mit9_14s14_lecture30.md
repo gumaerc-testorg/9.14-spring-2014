@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding hormonal and other influences
   on brain development and plasticity notes.
-file: /media/courses/9-14-brain-structure-and-its-origins-spring-2014/b3341b7cf89c1b11cc9b0fb034b989cc_MIT9_14S14_Lecture30.pdf
+file: /courses/9-14-brain-structure-and-its-origins-spring-2014/b3341b7cf89c1b11cc9b0fb034b989cc_MIT9_14S14_Lecture30.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -15,3 +15,5 @@ title: '9.14 Lecture 30: Hormonal and other Influences on Brain Development and 
   Notes'
 uid: b3341b7c-f89c-1b11-cc9b-0fb034b989cc
 ---
+This file contains the information regarding hormonal and other influences on brain development and plasticity notes.
+

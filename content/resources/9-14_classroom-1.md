@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/9-14-brain-structure-and-its-origins-spring-2014/ceb326c95017727d87ebec3ed98fcce0_9-14_classroom-1.jpg
+file: /courses/9-14-brain-structure-and-its-origins-spring-2014/ceb326c95017727d87ebec3ed98fcce0_9-14_classroom-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

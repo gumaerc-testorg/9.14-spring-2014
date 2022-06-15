@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides citations and links to required and supplementary
+  readings for the course, the schedule of topics and reading assignments, and reading
+  questions.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -53,7 +56,7 @@ READINGS
 1–2
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction: brain orientation, primitive cellular activities (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec1-2readque)
+{{% resource_link 58a74d95-55cc-0135-a4e3-dff389fac606 "Introduction: brain orientation, primitive cellular activities (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 \[GES\] Chapters 1 and 2.
@@ -65,7 +68,7 @@ READINGS
 3–4
 {{< tdclose >}}
 {{< tdopen >}}
-[Steps to the CNS of chordates (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec3-4readque)
+{{% resource_link e032ca56-096b-0d7b-6c79-0b7a442a289a "Steps to the CNS of chordates (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -85,7 +88,7 @@ READINGS
 5–6
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction to the pre-mammalian brain; specializations; overview of forebrain structures (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec5-6readque)
+{{% resource_link e1c8d7d8-3e47-3023-ab67-8f7bad8dd5fc "Introduction to the pre-mammalian brain; specializations; overview of forebrain structures (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -107,7 +110,7 @@ READINGS
 7–8
 {{< tdclose >}}
 {{< tdopen >}}
-[Completion of forebrain structures. CNS development and anatomy (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec7-8readque)
+{{% resource_link 1cdaac9a-f565-1aef-d471-62dd6e52c892 "Completion of forebrain structures. CNS development and anatomy (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -129,7 +132,7 @@ READINGS
 9–12
 {{< tdclose >}}
 {{< tdopen >}}
-[Autonomic nervous system; differentiation of brain vesicles (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec9-12readque)
+{{% resource_link f02ea629-13d9-d541-564f-8aa7c5b797f3 "Autonomic nervous system; differentiation of brain vesicles (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -150,7 +153,7 @@ READINGS
 13–14
 {{< tdclose >}}
 {{< tdopen >}}
-[CNS differentiation: Axon growth (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec13-14readque)
+{{% resource_link bc4e7b28-f8bd-5b83-3d33-68a43016a223 "CNS differentiation: Axon growth (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -170,7 +173,7 @@ Zigmond, Michael J., Floyd E. Bloom, et al, eds. _Fundamental Neuroscience_. Aca
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Motor systems 1 (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec15readque)
+{{% resource_link e4856b69-36bb-21f9-a06c-a32a67467383 "Motor systems 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -214,7 +217,7 @@ Motor System 2
 17–18
 {{< tdclose >}}
 {{< tdopen >}}
-[Brain states (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec17-18readque)
+{{% resource_link 7fc4dd68-8cd9-adb8-e9e9-43fea0b04e21 "Brain states (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -248,7 +251,7 @@ Midterm Exam
 
 Sheep brain dissection Please wear appropriate lab attire (i.e., long pants, close-toed shoes).
 
-[Taste and olfactory systems (PDF)]({{< baseurl >}}/resources/mit9_14s14_tastereadque)
+{{% resource_link 276371b2-0d52-e73d-06cc-ddfe935f7885 "Taste and olfactory systems (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -278,7 +281,7 @@ Malnic, Bettina, Junzo Hirono, et al. "[Combinatorial Receptor Codes for Odors](
 {{< tdopen >}}
 
 
-[Visual systems (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec21-23readque)
+{{% resource_link 51efd76f-2207-a0e1-b7e5-5c72f8db44a1 "Visual systems (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -304,7 +307,7 @@ Malnic, Bettina, Junzo Hirono, et al. "[Combinatorial Receptor Codes for Odors](
 24–25
 {{< tdclose >}}
 {{< tdopen >}}
-[Auditory and related sensory systems (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec24-25readque)
+{{% resource_link 38a642ce-614d-5aed-91bb-0db80e81ecb5 "Auditory and related sensory systems (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -326,7 +329,7 @@ Malnic, Bettina, Junzo Hirono, et al. "[Combinatorial Receptor Codes for Odors](
 26
 {{< tdclose >}}
 {{< tdopen >}}
-[Forebrain evolution (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec26readque)
+{{% resource_link 84988106-3a40-76ee-647a-ea6d1d8a9213 "Forebrain evolution (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -350,7 +353,7 @@ Malnic, Bettina, Junzo Hirono, et al. "[Combinatorial Receptor Codes for Odors](
 27–29
 {{< tdclose >}}
 {{< tdopen >}}
-[Hypothalamus and limbic system, part 1 (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec27-29readque)
+{{% resource_link 502a7dc6-555a-45b2-03b2-37ce11a8a594 "Hypothalamus and limbic system, part 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -376,7 +379,7 @@ Giesler Jr, Glenn J., James T. Katter, et al. ["Direct Spinal Pathways to the Li
 30
 {{< tdclose >}}
 {{< tdopen >}}
-[Hormonal and other influences on brain development and plasticity (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec30readque)
+{{% resource_link c9bc52b6-e37c-deaf-bc41-a4edb8b90794 "Hormonal and other influences on brain development and plasticity (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -402,7 +405,7 @@ Chapter 47, pp. 1229–44, box 47.2 and box 47.3.
 31
 {{< tdclose >}}
 {{< tdopen >}}
-[Hippocampal formation (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec31readque)
+{{% resource_link 90373387-ba30-9792-a88f-f5ce3a6d76d7 "Hippocampal formation (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -425,7 +428,7 @@ Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neur
 32
 {{< tdclose >}}
 {{< tdopen >}}
-[Amygdala and other aspects of limbic forebrain (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec32readque)
+{{% resource_link deb65061-3be1-fb81-69f3-06d2391c8488 "Amygdala and other aspects of limbic forebrain (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -445,7 +448,7 @@ Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neur
 33–34
 {{< tdclose >}}
 {{< tdopen >}}
-[Corpus striatum (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec33-34readque)
+{{% resource_link b2c51457-fd05-ed31-65c6-90c97b09e726 "Corpus striatum (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -471,11 +474,11 @@ Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neur
 {{< tdopen >}}
 
 
-[Neocortex (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec35-37readque)
+{{% resource_link f1e07f78-8f24-641d-7fae-6a5dc889e0a8 "Neocortex (PDF)" %}}
 
-[Neocortex 2 (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec35-37reaque2)
+{{% resource_link 874dc5b4-f199-90cf-331d-ea877a442261 "Neocortex 2 (PDF)" %}}
 
-[Neocortex (Supplemental Questions on Nauta) (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec35-38readque)
+{{% resource_link bcf11af4-1a9d-c14b-57a4-3d025bfcda09 "Neocortex (Supplemental Questions on Nauta) (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -521,7 +524,7 @@ Bai, Wanzhu, Mami Ishida, et al. "[Role of the Protomap and Target-derived Signa
 38
 {{< tdclose >}}
 {{< tdopen >}}
-[Plasticity in brain connections; Review (PDF)]({{< baseurl >}}/resources/mit9_14s14_lec38readque)
+{{% resource_link 9f01b6da-3543-c8dc-ad11-74d569132442 "Plasticity in brain connections; Review (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 \[GES\] Chapter 34.
@@ -546,4 +549,4 @@ Final Exam
 Additional Recommended Readings
 -------------------------------
 
-There are a number of [additional recommended readings]({{< baseurl >}}/pages/readings/recommended-readings) for this course.
+There are a number of {{% resource_link 59deabb3-48c8-63f8-6b93-2c061577db41 "additional recommended readings" %}} for this course.

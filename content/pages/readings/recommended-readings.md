@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of textbooks and other sources recommended
+  for those who wish to do further reading.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
