@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides a list of textbooks and other sources recommended
+  for those who wish to do further reading.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: b70fd933-c826-d046-3486-e5588b6773ad
 title: Recommended Readings
 uid: 59deabb3-48c8-63f8-6b93-2c061577db41

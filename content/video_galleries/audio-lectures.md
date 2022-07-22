@@ -1,6 +1,11 @@
 ---
 content_type: video_gallery
+description: This section provides audio recordings of selected lecture sessions of
+  the course.
 is_media_gallery: true
+learning_resource_types:
+- Lecture Audio
+ocw_type: CourseSection
 title: Audio Lectures
 uid: e3b93086-9809-2c82-7b1d-6f13968bffb4
 videos:
@@ -43,7 +48,7 @@ videos:
   website: 9-14-brain-structure-and-its-origins-spring-2014
 ---
 
-Audio lectures for this course are presented below. The recording quality of this audio is the best available given the source. Please note that there is no audio available for Lecture 13, Lecture 19 (Midterm Exam), Lecture 20 (the sheep brain dissection), or taste and olfactory systems (covered by [readings]({{< baseurl >}}/pages/readings) only).
+Audio lectures for this course are presented below. The recording quality of this audio is the best available given the source. Please note that there is no audio available for Lecture 13, Lecture 19 (Midterm Exam), Lecture 20 (the sheep brain dissection), or taste and olfactory systems (covered by {{% resource_link b70fd933-c826-d046-3486-e5588b6773ad "readings" %}} only).
 
 {{< video-gallery "e3b93086-9809-2c82-7b1d-6f13968bffb4" >}}
 
