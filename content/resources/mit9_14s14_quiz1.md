@@ -5,6 +5,7 @@ file: /courses/9-14-brain-structure-and-its-origins-spring-2014/9c45a66d8d3b2843
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '9.14 Quiz 1 '
 uid: 9c45a66d-8d3b-2843-d33c-b066ca67c586
 ---
 This file contains the information regarding 9.14 Quiz 1 .
-

@@ -6,6 +6,7 @@ file: /courses/9-14-brain-structure-and-its-origins-spring-2014/7fc4dd688cd9adb8
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 9.14 Lecture 17-18 Reading Questions
 uid: 7fc4dd68-8cd9-adb8-e9e9-43fea0b04e21
 ---
 This file contains the information regarding 9.14 lecture 17-18 reading questions.
-

@@ -6,6 +6,7 @@ file: /courses/9-14-brain-structure-and-its-origins-spring-2014/c1d3500cced10490
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '9.14 9.14 Lecture 27: Regulating the Internal Mileau and the Basic Insti
 uid: c1d3500c-ced1-0490-530e-68c4f29450ae
 ---
 This file contains the information regarding regulating the internal mileau and the basic instincts notes
-

@@ -6,6 +6,7 @@ file: /courses/9-14-brain-structure-and-its-origins-spring-2014/90373387ba309792
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 9.14 Lecture 31 Reading Questions
 uid: 90373387-ba30-9792-a88f-f5ce3a6d76d7
 ---
 This file contains the information regarding 9.14 lecture 31 reading questions.
-

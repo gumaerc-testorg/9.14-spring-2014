@@ -6,6 +6,7 @@ file: /courses/9-14-brain-structure-and-its-origins-spring-2014/3cbec8d5f090d7db
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '9.14 Lecture 16: Descending pathways and evolution Notes.'
 uid: 3cbec8d5-f090-d7db-379f-6f302e84c2ec
 ---
 This file contains the information regarding descending pathways and evolution Notes.
-

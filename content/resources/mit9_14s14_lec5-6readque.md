@@ -6,6 +6,7 @@ file: /courses/9-14-brain-structure-and-its-origins-spring-2014/e1c8d7d83e473023
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 9.14 Lecture 5-6 Reading Questions
 uid: e1c8d7d8-3e47-3023-ab67-8f7bad8dd5fc
 ---
 This file contains the information regarding 9.14 lecture 5-6 reading questions.
-

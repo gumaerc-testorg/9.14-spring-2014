@@ -6,6 +6,7 @@ file: /courses/9-14-brain-structure-and-its-origins-spring-2014/276371b20d52e73d
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 9.14 Taste and Olfactory System Reading Questions
 uid: 276371b2-0d52-e73d-06cc-ddfe935f7885
 ---
 This file contains the information regarding 9.14 taste and olfactory system reading questions.
-

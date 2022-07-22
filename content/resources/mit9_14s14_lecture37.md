@@ -6,6 +6,7 @@ file: /courses/9-14-brain-structure-and-its-origins-spring-2014/9792678fad0e07ef
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '9.14 Lecture 37: Thalamocortical Organization; Transcortical Connections
 uid: 9792678f-ad0e-07ef-e93e-1ae21e2e1a2e
 ---
 This file contains the information regarding thalamocortical organization; transcortical connections and association cortex; thalamic evolution notes
-

@@ -6,6 +6,7 @@ file: /courses/9-14-brain-structure-and-its-origins-spring-2014/874dc5b4f19990cf
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '9.14 Lecture 35-37: Neocortex 2 Reading Questions'
 uid: 874dc5b4-f199-90cf-331d-ea877a442261
 ---
 This is a resource file that contains information regarding neocortex 2.
-

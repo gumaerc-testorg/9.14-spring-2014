@@ -6,6 +6,7 @@ file: /courses/9-14-brain-structure-and-its-origins-spring-2014/001c8adbcd100067
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '9.14 Lecture 7: The Neural Tube Forms in the Embryo, and CNS Level Begin
 uid: 001c8adb-cd10-0067-7ab8-433489d89cda
 ---
 This file contains the information regarding the neural tube forms in the embryo, and CNS level begin at the spinal level notes.
-

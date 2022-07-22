@@ -6,6 +6,7 @@ file: /courses/9-14-brain-structure-and-its-origins-spring-2014/dd3c5168ddcbf765
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 9.14 Homework Assignment 2
 uid: dd3c5168-ddcb-f765-63a2-11142c28b98e
 ---
 This file contains the information regarding 9.14 homework assignment 2.
-

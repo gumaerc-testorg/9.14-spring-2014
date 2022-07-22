@@ -6,6 +6,7 @@ file: /courses/9-14-brain-structure-and-its-origins-spring-2014/3c48ecb0ad8708b2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '9.14 Lecture 9: Autonomic Nervous System. Differentiation of the Brain V
 uid: 3c48ecb0-ad87-08b2-e1d1-532b323888bb
 ---
 This file contains the information regarding autonomic nervous system. differentiation of the brain vesicles: intro to hindbrain and segmentation notes.
-

@@ -6,6 +6,7 @@ file: /courses/9-14-brain-structure-and-its-origins-spring-2014/ec1a4fc78d718b5d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '9.14 Lecture 6: Some Specializations Involving Head Receptors Notes'
 uid: ec1a4fc7-8d71-8b5d-3a04-35c0fd58d769
 ---
 This file contains the information regarding some specializations involving head receptors notes.
-

@@ -6,6 +6,7 @@ file: /courses/9-14-brain-structure-and-its-origins-spring-2014/21e3b850dfb27a9c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '9.14 Lecture 14: Some phenomena of axonal plasticity in the CNS Notes.'
 uid: 21e3b850-dfb2-7a9c-51ed-367597233d39
 ---
 This file contains the information regarding Some phenomena of axonal plasticity in the CNS Notes.
-

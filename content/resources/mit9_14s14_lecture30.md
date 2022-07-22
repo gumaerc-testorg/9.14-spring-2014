@@ -6,6 +6,7 @@ file: /courses/9-14-brain-structure-and-its-origins-spring-2014/b3341b7cf89c1b11
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '9.14 Lecture 30: Hormonal and other Influences on Brain Development and 
 uid: b3341b7c-f89c-1b11-cc9b-0fb034b989cc
 ---
 This file contains the information regarding hormonal and other influences on brain development and plasticity notes.
-

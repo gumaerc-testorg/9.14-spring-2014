@@ -6,6 +6,7 @@ file: /courses/9-14-brain-structure-and-its-origins-spring-2014/73b43a95560157fe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '9.14 Lecture 28: Core Pathways of the Limbic System, and Remembering Mea
 uid: 73b43a95-5601-57fe-4565-0bbab6db69c5
 ---
 This file contains the information regarding Core pathways of the limbic system, and remembering meaningful places notes.
-
