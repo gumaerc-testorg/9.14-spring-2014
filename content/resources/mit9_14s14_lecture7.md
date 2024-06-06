@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding the neural tube forms in
   the embryo, and CNS level begin at the spinal level notes.
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/001c8adbcd1000677ab8433489d89cda_MIT9_14S14_Lecture7.pdf
+file_size: 2274040
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

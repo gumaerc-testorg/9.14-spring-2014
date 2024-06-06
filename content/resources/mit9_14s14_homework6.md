@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding 9.14 homework assignment
   6.
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/30d8b146fb8a549feebd3e20bbdaa77a_MIT9_14S14_Homework6.pdf
+file_size: 93075
 file_type: application/pdf
 learning_resource_types:
 - Assignments

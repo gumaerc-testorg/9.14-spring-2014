@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding 9.14 homework assignment
   3 worksheets.
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/1cb966b0f337229c7c7c48b25ab9daaa_MIT9_14S14_HW3WorkSheets.pdf
+file_size: 4042315
 file_type: application/pdf
 learning_resource_types:
 - Assignments
