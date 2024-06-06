@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding 9.14 lecture 33-34 reading
   questions.
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/b2c51457fd05ed3165c690c97b09e726_MIT9_14S14_Lec33-34ReadQue.pdf
+file_size: 653909
 file_type: application/pdf
 learning_resource_types:
 - Readings

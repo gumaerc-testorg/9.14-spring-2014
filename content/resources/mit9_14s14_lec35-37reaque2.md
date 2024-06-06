@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding neocortex
   2.
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/874dc5b4f19990cf331dea877a442261_MIT9_14S14_Lec35-37ReaQue2.pdf
+file_size: 217594
 file_type: application/pdf
 learning_resource_types:
 - Readings

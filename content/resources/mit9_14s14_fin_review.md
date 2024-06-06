@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains the information regarding 9.14: final review figures
   for special study.'
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/c4785eed637f9a747b3749a0ca626bce_MIT9_14S14_Fin_review.pdf
+file_size: 5517840
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
