@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding thalamocortical organization;
   transcortical connections and association cortex; thalamic evolution notes
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/9792678fad0e07efe93e1ae21e2e1a2e_MIT9_14S14_Lecture37.pdf
+file_size: 4719448
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding elaboration of the neural
   tube in evolution notes.
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/5f5eab9f96953bbc89265c6a311873f5_MIT9_14S14_Lecture4.pdf
+file_size: 1698165
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

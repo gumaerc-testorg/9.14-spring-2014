@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding introduction to the forebrain
   and its adaptive prizes notes.
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/087a00554ad0648e48b748573dd9e6e1_MIT9_14S14_Lecture26.pdf
+file_size: 1104697
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding neural arrangements of the
   neopallium, major cortical regions and axonal pathways notes
 file: /courses/9-14-brain-structure-and-its-origins-spring-2014/c1c78ab34fef0b939a2472db10e6d5c8_MIT9_14S14_Lecture36.pdf
+file_size: 1214683
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
