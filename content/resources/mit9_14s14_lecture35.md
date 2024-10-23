@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding brain structure and its
   origins notes.
-file: /courses/9-14-brain-structure-and-its-origins-spring-2014/ed83d823ec4a505a940eed19ecb4fdfe_MIT9_14S14_Lecture35.pdf
+file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/ed83d823ec4a505a940eed19ecb4fdfe_MIT9_14S14_Lecture35.pdf
 file_size: 1818429
 file_type: application/pdf
 learning_resource_types:

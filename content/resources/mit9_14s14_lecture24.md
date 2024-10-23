@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding Sensory systems 3: Auditory
   systems Notes.'
-file: /courses/9-14-brain-structure-and-its-origins-spring-2014/0520350dc4a9d772b7af0db49754a834_MIT9_14S14_Lecture24.pdf
+file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/0520350dc4a9d772b7af0db49754a834_MIT9_14S14_Lecture24.pdf
 file_size: 1931955
 file_type: application/pdf
 learning_resource_types:
