@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/9-14-brain-structure-and-its-origins-spring-2014/mit9_14s14_lec07_transcript.pdf
+file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/mit9_14s14_lec07_transcript.pdf
 file_size: 72385
 file_type: application/pdf
 image_metadata:

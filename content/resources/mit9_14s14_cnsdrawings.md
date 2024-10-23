@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/9-14-brain-structure-and-its-origins-spring-2014/ed631bf9fded9c14ebeb6491de84927e_MIT9_14S14_CNSDrawings.pdf
+file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/ed631bf9fded9c14ebeb6491de84927e_MIT9_14S14_CNSDrawings.pdf
 file_size: 1185831
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding some specializations involving
   head receptors notes.
-file: /courses/9-14-brain-structure-and-its-origins-spring-2014/ec1a4fc78d718b5d3a0435c0fd58d769_MIT9_14S14_Lecture6.pdf
+file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/ec1a4fc78d718b5d3a0435c0fd58d769_MIT9_14S14_Lecture6.pdf
 file_size: 1837947
 file_type: application/pdf
 learning_resource_types:
