@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding 9.14 lecture 38 reading
   questions.
-file: /courses/9-14-brain-structure-and-its-origins-spring-2014/9f01b6da3543c8dcad1174d569132442_MIT9_14S14_Lec38ReadQue.pdf
+file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/9f01b6da3543c8dcad1174d569132442_MIT9_14S14_Lec38ReadQue.pdf
 file_size: 217415
 file_type: application/pdf
 learning_resource_types:

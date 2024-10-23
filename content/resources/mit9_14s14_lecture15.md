@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding Overview of motor system
   structure Notes.
-file: /courses/9-14-brain-structure-and-its-origins-spring-2014/bc2c38951042b1ffcc4fcc9ddea4fb0c_MIT9_14S14_Lecture15.pdf
+file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/bc2c38951042b1ffcc4fcc9ddea4fb0c_MIT9_14S14_Lecture15.pdf
 file_size: 1923707
 file_type: application/pdf
 learning_resource_types:

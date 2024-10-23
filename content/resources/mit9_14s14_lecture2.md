@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding methods for mapping pathways
   and enable the intigrative activity of the CNS notes.
-file: /courses/9-14-brain-structure-and-its-origins-spring-2014/2316e240bb2818a071820a7b64bfce17_MIT9_14S14_Lecture2.pdf
+file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/2316e240bb2818a071820a7b64bfce17_MIT9_14S14_Lecture2.pdf
 file_size: 3958964
 file_type: application/pdf
 learning_resource_types:

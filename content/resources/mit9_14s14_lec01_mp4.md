@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/9-14-brain-structure-and-its-origins-spring-2014/mit9_14s14_lec01_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/mit9_14s14_lec01_360p_16_9.mp4
 file_size: 74512691
 file_type: video/mp4
 image_metadata:

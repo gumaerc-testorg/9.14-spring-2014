@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding 9.14 taste and olfactory
   system reading questions.
-file: /courses/9-14-brain-structure-and-its-origins-spring-2014/276371b20d52e73d06ccddfe935f7885_MIT9_14S14_TasteReadQue.pdf
+file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/276371b20d52e73d06ccddfe935f7885_MIT9_14S14_TasteReadQue.pdf
 file_size: 653632
 file_type: application/pdf
 learning_resource_types:
