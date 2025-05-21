@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/448a77d5a78dce77b6af4e9ca83134cc_9-14_classroom-2.jpg
+file: /courses/9-14-brain-structure-and-its-origins-spring-2014/448a77d5a78dce77b6af4e9ca83134cc_9-14_classroom-2.jpg
 file_size: 57084
 file_type: image/jpeg
 image_metadata:

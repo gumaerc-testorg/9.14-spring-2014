@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding sensory systems 2: visual
   systems notes.'
-file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/1a1e4d242ee13c820edc2f3c01eef436_MIT9_14S14_Lecture23.pdf
+file: /courses/9-14-brain-structure-and-its-origins-spring-2014/1a1e4d242ee13c820edc2f3c01eef436_MIT9_14S14_Lecture23.pdf
 file_size: 4247104
 file_type: application/pdf
 learning_resource_types:
