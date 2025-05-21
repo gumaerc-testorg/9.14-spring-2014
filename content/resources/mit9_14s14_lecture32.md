@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding limbic forebrain and amygdala
   notes.
-file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/4889496916869851c13059aaaeca9256_MIT9_14S14_Lecture32.pdf
+file: /courses/9-14-brain-structure-and-its-origins-spring-2014/4889496916869851c13059aaaeca9256_MIT9_14S14_Lecture32.pdf
 file_size: 3032517
 file_type: application/pdf
 learning_resource_types:

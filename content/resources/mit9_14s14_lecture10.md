@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding hindbrain & cranial nerves;
   hindbrain specializations notes.
-file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/fb7005d1d0c34711efed7bc2034ed6f4_MIT9_14S14_Lecture10.pdf
+file: /courses/9-14-brain-structure-and-its-origins-spring-2014/fb7005d1d0c34711efed7bc2034ed6f4_MIT9_14S14_Lecture10.pdf
 file_size: 2945478
 file_type: application/pdf
 learning_resource_types:
