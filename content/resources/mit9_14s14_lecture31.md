@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding the vertebrate medial pallium
   in mammals: the hippocampal formation notes.'
-file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/9c2e0966772551f96e1481a9e528aca0_MIT9_14S14_Lecture31.pdf
+file: /courses/9-14-brain-structure-and-its-origins-spring-2014/9c2e0966772551f96e1481a9e528aca0_MIT9_14S14_Lecture31.pdf
 file_size: 2484735
 file_type: application/pdf
 learning_resource_types:

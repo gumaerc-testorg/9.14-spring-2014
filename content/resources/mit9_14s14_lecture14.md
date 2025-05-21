@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding Some phenomena of axonal
   plasticity in the CNS Notes.
-file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/21e3b850dfb27a9c51ed367597233d39_MIT9_14S14_Lecture14.pdf
+file: /courses/9-14-brain-structure-and-its-origins-spring-2014/21e3b850dfb27a9c51ed367597233d39_MIT9_14S14_Lecture14.pdf
 file_size: 651812
 file_type: application/pdf
 learning_resource_types:

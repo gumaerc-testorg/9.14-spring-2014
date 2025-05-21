@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding Motor systems: Brain states;
   review Notes.'
-file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/c4e7894662082e3ed2c2e107d1467f71_MIT9_14S14_Lecture18.pdf
+file: /courses/9-14-brain-structure-and-its-origins-spring-2014/c4e7894662082e3ed2c2e107d1467f71_MIT9_14S14_Lecture18.pdf
 file_size: 948955
 file_type: application/pdf
 learning_resource_types:

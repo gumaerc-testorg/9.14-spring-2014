@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains the information regarding 9.14 class 32: review.'
-file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/ed766ae8589fac9c63d44b3c47689930_MIT9_14S14_Lec31_review.pdf
+file: /courses/9-14-brain-structure-and-its-origins-spring-2014/ed766ae8589fac9c63d44b3c47689930_MIT9_14S14_Lec31_review.pdf
 file_size: 1496513
 file_type: application/pdf
 learning_resource_types: []
