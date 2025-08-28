@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding fetal brain tissue transplantation
   and new neurons for adult brain (review and extension) notes.
-file: /courses/9-14-brain-structure-and-its-origins-spring-2014/48787461f8b85090293225447eaf94b9_MIT9_14S14_Lecture34.pdf
+file: /ol-ocw-studio-app/courses/9-14-brain-structure-and-its-origins-spring-2014/48787461f8b85090293225447eaf94b9_MIT9_14S14_Lecture34.pdf
 file_size: 2571423
 file_type: application/pdf
 learning_resource_types:
