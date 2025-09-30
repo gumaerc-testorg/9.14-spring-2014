@@ -13,7 +13,7 @@ uid: b70fd933-c826-d046-3486-e5588b6773ad
 Required Textbook
 -----------------
 
-\[GES\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262026734) Schneider, G. E. _Brain Structure and Its Origins: In Development and in Evolution of Behavior and the Mind_. MIT Press, 2014. ISBN: 9780262026734.
+\[GES\] = {{% resource_link "7f5bdcde-37bd-41e7-bc00-2fc62ae48578" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Schneider, G. E. _Brain Structure and Its Origins: In Development and in Evolution of Behavior and the Mind_. MIT Press, 2014. ISBN: 9780262026734.
 
 Supplementary Textbooks
 -----------------------
@@ -29,9 +29,9 @@ Additional Supplementary Sources
 
 \[GFS\] = Striedter, Georg F. _Principles of Brain Evolution_. Sinauer Associates, 2004. ISBN: 9780878938209.
 
-\[PB\] = Brodal, Per. _The Central Nervous System, Structure and Function_. 3rd ed. Oxford University Press, 2003. ISBN: 9780195165609. \[Preview with [Google Books](http://books.google.com/books?id=iJjI6yDNmr8C&pg=PAfrontcover)\]
+\[PB\] = Brodal, Per. _The Central Nervous System, Structure and Function_. 3rd ed. Oxford University Press, 2003. ISBN: 9780195165609. \[Preview with {{% resource_link "67ad1ed4-942d-4653-9e4c-c9014ea0a045" "Google Books" %}}\]
 
-\[WHAB\] = Butler, Ann B., and William Hodos. _Comparative Vertebrate Neuroanatomy: Evolution and Adaptation_. Wiley-Liss, 1996. ISBN: 9780471888895. \[Preview with [Google Books](http://books.google.com/books?id=6kGARvykJKMC&pg=PAfrontcover)\]
+\[WHAB\] = Butler, Ann B., and William Hodos. _Comparative Vertebrate Neuroanatomy: Evolution and Adaptation_. Wiley-Liss, 1996. ISBN: 9780471888895. \[Preview with {{% resource_link "28353d8f-229c-4bd3-95c6-6190465ff7aa" "Google Books" %}}\]
 
 \[JWDP\] = Purves, Dale, and Jeff W. Lichtman. _Principles of Neural Development_. Sinauer Associates, 1985. ISBN: 9780878937448.  
 
@@ -266,9 +266,9 @@ Lois, Carlos, Jose-Manuel Garcia-Verdugo, et al. "[Chain Migration of Neuronal P
 
 \[GFS\] Chapter 5, pp. 137–57.
 
-Alvarez-Buylla, Arturo, and Jose Manuel Garcı́a-Verdugo. "[Neurogenesis in Adult Subventricular Zone](http://www.jneurosci.org/content/22/3/629.short)." _The Journal of Neuroscience_ 22, no. 3 (2002): 629–34.
+Alvarez-Buylla, Arturo, and Jose Manuel Garcı́a-Verdugo. "{{% resource_link "84e7cfd0-8c07-4140-ad24-e5369ba75451" "Neurogenesis in Adult Subventricular Zone" %}}." _The Journal of Neuroscience_ 22, no. 3 (2002): 629–34.
 
-Malnic, Bettina, Junzo Hirono, et al. "[Combinatorial Receptor Codes for Odors](http://dx.doi.org/10.1016/S0092-8674(00)80581-4)." _Cell_ 96, no. 5 (1999): 713–23.
+Malnic, Bettina, Junzo Hirono, et al. "{{% resource_link "edd6e7e4-ec76-4022-8976-85a3a08a2b1b" "Combinatorial Receptor Codes for Odors" %}}." _Cell_ 96, no. 5 (1999): 713–23.
 
 
 {{< tdclose >}}
@@ -366,9 +366,9 @@ Malnic, Bettina, Junzo Hirono, et al. "[Combinatorial Receptor Codes for Odors](
 
 \[LWS\] Chapter 6b, pp. 117–30 and Chapter 7, pp. 194–55.
 
-Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neurology_. Oxford University Press, 2000, pp. 64–66. ISBN: 9780195134759. \[Preview with [Google Books](http://books.google.com/books?id=kezqJb69OlAC&pg=PA1=onepage)\]  
+Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neurology_. Oxford University Press, 2000, pp. 64–66. ISBN: 9780195134759. \[Preview with {{% resource_link "25d2105b-58ec-4d3b-9449-5c0467c0ef35" "Google Books" %}}\]  
 
-Giesler Jr, Glenn J., James T. Katter, et al. ["Direct Spinal Pathways to the Limbic System for Nociceptive Information](http://dx.doi.org/10.1016/0166-2236%2894%2990007-8)." _Trends in Neurosciences_ 17, no. 6 (1994): 244–50.
+Giesler Jr, Glenn J., James T. Katter, et al. {{% resource_link "05838b33-add0-4300-8dbf-d49042c7dc66" "\"Direct Spinal Pathways to the Limbic System for Nociceptive Information" %}}." _Trends in Neurosciences_ 17, no. 6 (1994): 244–50.
 
 
 {{< tdclose >}}
@@ -386,11 +386,11 @@ Giesler Jr, Glenn J., James T. Katter, et al. ["Direct Spinal Pathways to the Li
 
 \[GES\] Chapter 27.
 
-Swaab, D. F., and M. A. Hofman. "[Sexual differentiation of the human hypothalamus in relation to gender and sexual orientation](http://dx.doi.org/10.1016/0166-2236(95)80007-O)." _Trends in Neurosciences_ 18, no. 6 (1995): 264–70.
+Swaab, D. F., and M. A. Hofman. "{{% resource_link "7e9e1817-f9ec-4e4e-a8a5-7dd563a78e9d" "Sexual differentiation of the human hypothalamus in relation to gender and sexual orientation" %}}." _Trends in Neurosciences_ 18, no. 6 (1995): 264–70.
 
-Nottebohm, Fernando. "[From Bird Song to Neurogenesis](http://www.scientificamerican.com/article/from-bird-song-to-neurogenesis/)." _Scientific American_ 260, no. 2 (1989): 74–9.
+Nottebohm, Fernando. "{{% resource_link "1d0f6371-a445-4806-9998-679a1ebb3713" "From Bird Song to Neurogenesis" %}}." _Scientific American_ 260, no. 2 (1989): 74–9.
 
-Kimura, Doreen. "[Sex Differences in the Brain](http://www.scientificamerican.com/article/sex-differences-in-the-brain/)." _Scientific American_ 267, no. 3 (1992): 118–25.
+Kimura, Doreen. "{{% resource_link "c3c8cb3f-f2bf-4ed0-8053-d684530defbd" "Sex Differences in the Brain" %}}." _Scientific American_ 267, no. 3 (1992): 118–25.
 
 Zigmond, Michael J., Floyd E. Bloom, et al, eds. _Fundamental Neuroscience_. Academic Press Inc, 1999. ISBN: 9780127808727.
 
@@ -416,7 +416,7 @@ Chapter 47, pp. 1229–44, box 47.2 and box 47.3.
 
 \[PB\] Chapter 30, section on Evolutionary perspective (to get a flavor of the comparative work).
 
-Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neurology_. Oxford University Press, 2000, pp. 1–120, and 49–64. ISBN: 9780195134759. \[Preview with [Google Books](http://books.google.com/books?id=kezqJb69OlAC&pg=PA1=onepage)\]  
+Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neurology_. Oxford University Press, 2000, pp. 1–120, and 49–64. ISBN: 9780195134759. \[Preview with {{% resource_link "25d2105b-58ec-4d3b-9449-5c0467c0ef35" "Google Books" %}}\]  
 (focus on the hippocampus section for this session (pp. 59–64)).
 
 
@@ -437,7 +437,7 @@ Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neur
 
 \[PB\] Chapter 20, pp. 415–34.
 
-Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neurology_. Oxford University Press, 2000, pp. 1–120, and 49–64. ISBN: 9780195134759. \[Preview with [Google Books](http://books.google.com/books?id=kezqJb69OlAC&pg=PA1=onepage)\]
+Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neurology_. Oxford University Press, 2000, pp. 1–120, and 49–64. ISBN: 9780195134759. \[Preview with {{% resource_link "25d2105b-58ec-4d3b-9449-5c0467c0ef35" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -461,7 +461,7 @@ Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neur
 
 \[PB\] Chapter 13, pp. 286–302.
 
-Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neurology_. 2nd ed. Oxford University Press, 2000, pp. 66–71. ISBN: 9780195134759. \[Preview with [Google Books](http://books.google.com/books?id=kezqJb69OlAC&pg=PA1=onepage)\]
+Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neurology_. 2nd ed. Oxford University Press, 2000, pp. 66–71. ISBN: 9780195134759. \[Preview with {{% resource_link "25d2105b-58ec-4d3b-9449-5c0467c0ef35" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -495,19 +495,19 @@ Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neur
 
 \[JWDP\] Chapter 4, pp. 91–5.
 
-Rakic, Pasko. "[A small step for the cell, a giant leap for mankind: a hypothesis of neocortical expansion during evolution](http://dx.doi.org/10.1016/0166-2236(95)93934-P)." _Trends in Neurosciences_ 18, no. 9 (1995): 383–88.
+Rakic, Pasko. "{{% resource_link "86b3d648-5555-4ade-b5ec-c5480858636e" "A small step for the cell, a giant leap for mankind: a hypothesis of neocortical expansion during evolution" %}}." _Trends in Neurosciences_ 18, no. 9 (1995): 383–88.
 
 **For more advanced reading:**
 
 \[GFS\] Chapter 9, pp. 297–344.
 
-Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neurology_. 2nd ed. Oxford University Press, 2000, pp. 1–17, 21–54, and 71–75. ISBN: 9780195134759. \[Preview with [Google Books](http://books.google.com/books?id=kezqJb69OlAC&pg=PA1=onepage)\]
+Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neurology_. 2nd ed. Oxford University Press, 2000, pp. 1–17, 21–54, and 71–75. ISBN: 9780195134759. \[Preview with {{% resource_link "25d2105b-58ec-4d3b-9449-5c0467c0ef35" "Google Books" %}}\]
 
-Finlay, Barbara L., and Richard B. Darlington. "[Linked Regularities in the Development and Evolution of Mammalian Brains](http://dx.doi.org/10.1126/science.7777856)." _Science_ 268, no. 5217 (1995): 1578–84.
+Finlay, Barbara L., and Richard B. Darlington. "{{% resource_link "a10db0bc-6247-4e79-ba81-05d2aa4eba12" "Linked Regularities in the Development and Evolution of Mammalian Brains" %}}." _Science_ 268, no. 5217 (1995): 1578–84.
 
-Bonhoeffer, Tobias. "[Neurotrophins and Activity-dependent Development of the Neocortex](http://dx.doi.org/10.1016/S0959-4388%2896%2980017-1)." _Current Opinion in Neurobiology_ 6, no. 1 (1996): 119–26.
+Bonhoeffer, Tobias. "{{% resource_link "29bc094e-3d1e-442b-8a58-b964e20bef38" "Neurotrophins and Activity-dependent Development of the Neocortex" %}}." _Current Opinion in Neurobiology_ 6, no. 1 (1996): 119–26.
 
-Sur, Mriganka, Alessandra Angelucci, et al. "[Rewiring Cortex: The Role of Patterned Activity in Development and Plasticity of Neocortical Circuits](http://onlinelibrary.wiley.com/doi/10.1002/%28SICI%291097-4695%28199910%2941:1%3C33::AID-NEU6%3E3.0.CO;2-1/abstract)." _Journal of Neurobiology_ 41, no. 1 (1999): 33–43.
+Sur, Mriganka, Alessandra Angelucci, et al. "{{% resource_link "1d29ed3f-a19d-491d-8603-743ea01c7277" "Rewiring Cortex: The Role of Patterned Activity in Development and Plasticity of Neocortical Circuits" %}}." _Journal of Neurobiology_ 41, no. 1 (1999): 33–43.
 
 Bai, Wanzhu, Mami Ishida, et al. "[Role of the Protomap and Target-derived Signals in the Development of Intrahemispheric Connections](http://dx.doi.org/10.1093/cercor/bhi092 )." _Cerebral Cortex_ 16, no. 1 (2006): 124–35.
 
