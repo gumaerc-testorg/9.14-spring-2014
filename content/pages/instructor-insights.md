@@ -39,7 +39,7 @@ _Below, Professor Schneider describes various aspects of how he taught_ 9.14 Bra
 
 The content of the course has evolved over the past 14 years. It began with a focus on the anatomy of model systems used in neuroscience research and in studies of brain development. This focus was designed to help students learn the relevant neuroanatomy. Since then, I’ve introduced more and more comparative anatomy. I’ve also added more and more content about brain development.
 
-My experiences teaching this course are what inspired me to write {{% resource_link "5cf78b33-eb20-444b-bf33-712f875dd8b0" "_Brain Structure and Its Origins in Development and in Evolution of Behavior and the Mind_" %}} (2014). The material for the book, just like the material for the class sessions, was prepared over my many years of teaching and involvement in laboratory research on brain anatomy and function. The book will be required reading for residential learners beginning in Spring 2015; it may also serve as a helpful resource for independent learners studying the material through OpenCourseWare.
+My experiences teaching this course are what inspired me to write [_Brain Structure and Its Origins in Development and in Evolution of Behavior and the Mind_](http://mitpress.mit.edu/books/brain-structure-and-its-origins) (2014). The material for the book, just like the material for the class sessions, was prepared over my many years of teaching and involvement in laboratory research on brain anatomy and function. The book will be required reading for residential learners beginning in Spring 2015; it may also serve as a helpful resource for independent learners studying the material through OpenCourseWare.
 
 ### Helping Students Learn Complex Material
 
@@ -57,7 +57,7 @@ Dissecting a sheep’s brain helps students gain a better sense of the brain’s
 
 ### Requirements Satisfied
 
-9.14 can be applied toward a {{% resource_link "cb344508-0737-41d1-8ec8-af5bea873445" "Bachelor of Science in Brain and Cognitive Sciences" %}}, but is not required.
+9.14 can be applied toward a [Bachelor of Science in Brain and Cognitive Sciences](http://catalog.mit.edu/schools/science/brain-cognitive-sciences/), but is not required.
 
 ### Offered
 
