@@ -19,7 +19,7 @@ There were no recommended readings for Weeks 5–6, 13–14, 15, 17, 17–18, 20
 Required Textbook
 -----------------
 
-\[GES\] = {{% resource_link "7f5bdcde-37bd-41e7-bc00-2fc62ae48578" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Schneider, G. E. _Brain Structure and Its Origins: In Development and in Evolution of Behavior and the Mind_. MIT Press, 2014. ISBN: 9780262026734.
+\[GES\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262026734) Schneider, G. E. _Brain Structure and Its Origins: In Development and in Evolution of Behavior and the Mind_. MIT Press, 2014. ISBN: 9780262026734.
 
 Supplementary Textbooks
 -----------------------
@@ -35,9 +35,9 @@ Additional Supplementary Sources
 
 \[GFS\] = Striedter, Georg F. _Principles of Brain Evolution_. Sinauer Associates, 2004. ISBN: 9780878938209.
 
-\[PB\] = Brodal, Per. _The Central Nervous System, Structure and Function_. 3rd ed. Oxford University Press, 2003. ISBN: 9780195165609. \[Preview with {{% resource_link "7e136e06-095d-4b48-a62f-b0e22c087166" "Google Books" %}}\]
+\[PB\] = Brodal, Per. _The Central Nervous System, Structure and Function_. 3rd ed. Oxford University Press, 2003. ISBN: 9780195165609. \[Preview with [Google Books](http://books.google.co.in/books?id=iJjI6yDNmr8C&pg=PAfrontcover&redir_esc=y#v=onepage&q&f=false)\]
 
-\[WHAB\] = Butler, Ann B., and William Hodos. _Comparative Vertebrate Neuroanatomy: Evolution and Adaptation_. Wiley-Liss, 1996. ISBN: 9780471888895. \[Preview with {{% resource_link "28353d8f-229c-4bd3-95c6-6190465ff7aa" "Google Books" %}}\]
+\[WHAB\] = Butler, Ann B., and William Hodos. _Comparative Vertebrate Neuroanatomy: Evolution and Adaptation_. Wiley-Liss, 1996. ISBN: 9780471888895. \[Preview with [Google Books](http://books.google.com/books?id=6kGARvykJKMC&pg=PAfrontcover)\]
 
 \[JWDP\] = Purves, Dale, and Jeff W. Lichtman. _Principles of Neural Development_. Sinauer Associates, 1985. ISBN: 9780878937448.
 
@@ -183,7 +183,7 @@ Hypothalamus and limbic system, part 1
 
 \[LWS\] Chapter 7, pp. 139–49.
 
-Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neurology_. Oxford University Press, 2000, pp. 1–120. ISBN: 9780195134759. \[Preview with {{% resource_link "25d2105b-58ec-4d3b-9449-5c0467c0ef35" "Google Books" %}}\]
+Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neurology_. Oxford University Press, 2000, pp. 1–120. ISBN: 9780195134759. \[Preview with [Google Books](http://books.google.com/books?id=kezqJb69OlAC&pg=PA1=onepage)\]
 
 
 {{< tdclose >}}
@@ -199,19 +199,19 @@ Hormonal and other influences on brain development and plasticity
 {{< tdopen >}}
 
 
-Toran—Allerand, C. Dominique. "{{% resource_link "c249071d-08dc-44aa-8647-2bb56337ed73" "Mechanisms of Estrogen Action during Neural Development: Mediation by Interactions with the Neurotrophins and their Receptors?" %}}." _The Journal of Steroid Biochemistry and Molecular Biology_ 56, no. 1 (1996): 169–78.
+Toran—Allerand, C. Dominique. "[Mechanisms of Estrogen Action during Neural Development: Mediation by Interactions with the Neurotrophins and their Receptors?](http://dx.doi.org/10.1016/0960-0760(95)00234-0)." _The Journal of Steroid Biochemistry and Molecular Biology_ 56, no. 1 (1996): 169–78.
 
-Toran—Allerand, C. Dominique. "{{% resource_link "82a760c6-529b-4001-9df5-7bad64bdb936" "Organotypic Culture of the Developing Cerebral Cortex and Hypothalamus: Relevance to Sexual Differentiation" %}}." _Psychoneuroendocrinology_ 16, no. 1 (1991): 7–24.
+Toran—Allerand, C. Dominique. "[Organotypic Culture of the Developing Cerebral Cortex and Hypothalamus: Relevance to Sexual Differentiation](http://dx.doi.org/10.1016/0306-4530(91)90068-5)." _Psychoneuroendocrinology_ 16, no. 1 (1991): 7–24.
 
-Reisert, Ingrid, Victor Han, et al. "{{% resource_link "26b0cbdc-379a-4d19-b619-4c4f74c4eeb8" "Sex Steroids Promote Neurite Growth in Mesencephalic Tyrosine Hydroxylase Immunoreactive Neurons _in Vitro_" %}}." _International Journal of Developmental Neuroscience_ 5, no. 2 (1987): 91–8.
+Reisert, Ingrid, Victor Han, et al. "[Sex Steroids Promote Neurite Growth in Mesencephalic Tyrosine Hydroxylase Immunoreactive Neurons _in Vitro_](http://dx.doi.org/10.1016/0736-5748(87)90054-2)." _International Journal of Developmental Neuroscience_ 5, no. 2 (1987): 91–8.
 
-Johnson, Frank, and Sarah W. Bottjer. {{% resource_link "ccd0dafd-0cc8-4f8d-ba54-af748c8d54cd" "\"Differential Estrogen Accumulation among Populations of Projection Neurons in the Higher Vocal Center of Male Canaries" %}}." _Journal of Neurobiology_ 26, no. 1 (1995): 87–108.
+Johnson, Frank, and Sarah W. Bottjer. ["Differential Estrogen Accumulation among Populations of Projection Neurons in the Higher Vocal Center of Male Canaries](http://dx.doi.org/10.1002/neu.480260108)." _Journal of Neurobiology_ 26, no. 1 (1995): 87–108.
 
-Brown, Susan D., and Sarah W. Bottjer. "{{% resource_link "3be141cb-903c-49e3-a895-60fd5071adec" "Testosterone‐induced Changes in Adult Canary Brain are Reversible" %}}." _Journal of Neurobiology_ 24, no. 5 (1993): 627–40.
+Brown, Susan D., and Sarah W. Bottjer. "[Testosterone‐induced Changes in Adult Canary Brain are Reversible](http://dx.doi.org/10.1002/neu.480240508)." _Journal of Neurobiology_ 24, no. 5 (1993): 627–40.
 
-Brown, Susan D., Frank Johnson, et al. "{{% resource_link "16ad1e17-40cb-4cff-9b56-583ae0d3c238" "Neurogenesis in Adult Canary Telencephalon is Independent of Gonadal Hormone Levels" %}}." _The Journal of neuroscience_ 13, no. 5 (1993): 2024–32.
+Brown, Susan D., Frank Johnson, et al. "[Neurogenesis in Adult Canary Telencephalon is Independent of Gonadal Hormone Levels](http://www.jneurosci.org/content/13/5/2024)." _The Journal of neuroscience_ 13, no. 5 (1993): 2024–32.
 
-Bottjer, Sarah W., and Timothy P. Dignan. "{{% resource_link "19800104-d396-4772-b93d-4c057c60c11a" "Joint Hormonal and Sensory Stimulation Modulate Neuronal Number in Adult Canary Brains" %}}." _Journal of Neurobiology_ 19, no. 7 (1988): 624–35.
+Bottjer, Sarah W., and Timothy P. Dignan. "[Joint Hormonal and Sensory Stimulation Modulate Neuronal Number in Adult Canary Brains](http://dx.doi.org/10.1002/neu.480190705)." _Journal of Neurobiology_ 19, no. 7 (1988): 624–35.
 
 
 {{< tdclose >}}
@@ -243,9 +243,9 @@ Amygdala and other aspects of limbic forebrain
 {{< tdopen >}}
 
 
-Stevens, Janice R., Vernon H. Mark, et al. "{{% resource_link "5d9de5d5-8ef7-4580-bcc0-c863f6d2cd30" "Deep Temporal Stimulation in Man: Long latency, Long Lasting Psychological Changes" %}}." _Archives of Neurology_ 21, no. 2 (1969): 157–69.
+Stevens, Janice R., Vernon H. Mark, et al. "[Deep Temporal Stimulation in Man: Long latency, Long Lasting Psychological Changes](http://dx.doi.org/10.1001/archneur.1969.00480140057006)." _Archives of Neurology_ 21, no. 2 (1969): 157–69.
 
-Schaltenbrand, G., H. Spuler, et al. "{{% resource_link "1c8ea9b5-0dc3-45f4-9a9d-026f67141ccf" "Vegetative and Emotional Reactions During Electrical Stimulation of Deep Structures of the Brain during Stereotactic Procedures" %}}." _Zeitschrift für Neurologie_ 205, no. 2 (1973): 91–113.
+Schaltenbrand, G., H. Spuler, et al. "[Vegetative and Emotional Reactions During Electrical Stimulation of Deep Structures of the Brain during Stereotactic Procedures](http://dx.doi.org/10.1007/BF00316014)." _Zeitschrift für Neurologie_ 205, no. 2 (1973): 91–113.
 
 
 {{< tdclose >}}
@@ -261,13 +261,13 @@ Corpus striatum
 {{< tdopen >}}
 
 
-Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neurology_. 2nd ed. Oxford University Press, 2000, pp. 1–120. ISBN: 9780195134759. \[Preview with {{% resource_link "25d2105b-58ec-4d3b-9449-5c0467c0ef35" "Google Books" %}}\]
+Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neurology_. 2nd ed. Oxford University Press, 2000, pp. 1–120. ISBN: 9780195134759. \[Preview with [Google Books](http://books.google.com/books?id=kezqJb69OlAC&pg=PA1=onepage)\]
 
-Olanow, C. W., J. H. Kordower, et al. "{{% resource_link "cd1d0ca5-d4e5-4161-ab6c-c17afc94095a" "Fetal Nigral Transplantation as a Therapy for Parkinson's Disease" %}}." _Trends in Neurosciences_ 19, no. 3 (1996): 102–9.
+Olanow, C. W., J. H. Kordower, et al. "[Fetal Nigral Transplantation as a Therapy for Parkinson's Disease](http://dx.doi.org/10.1016/S0166-2236(96)80038-5)." _Trends in Neurosciences_ 19, no. 3 (1996): 102–9.
 
 Kempermann, Gerd, and Fred H. Gage. "[New Nerve Cells for the Adult Brain](http://dx.doi.org/10.1038/scientificamerican0599-48 )." _Scientific American_ 280 (1999): 48–53.
 
-Olanow, C. Warren, Christopher G. Goetz, et al. "{{% resource_link "c260b486-d9a1-4000-a21f-6138807140fa" "A Double‐blind Controlled Trial of Bilateral Fetal Nigral Transplantation in Parkinson's Disease" %}}." _Annals of Neurology_ 54, no. 3 (2003): 403–14.
+Olanow, C. Warren, Christopher G. Goetz, et al. "[A Double‐blind Controlled Trial of Bilateral Fetal Nigral Transplantation in Parkinson's Disease](http://dx.doi.org/10.1002/ana.10720)." _Annals of Neurology_ 54, no. 3 (2003): 403–14.
 
 Online information on deep brain stimulation for Parkinson's Disease": e.g., from Wikipedia or from WebMD, or from studies published in the literature (brain sites usually stimulated: subthalamic nucleus, globus pallidus)
 
@@ -293,7 +293,7 @@ Neocortex (Supplemental Questions on Nauta)
 {{< tdopen >}}
 
 
-Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neurology_. 2nd ed. Oxford University Press, 2000,  pp. 76–8. ISBN: 9780195134759. \[Preview with {{% resource_link "25d2105b-58ec-4d3b-9449-5c0467c0ef35" "Google Books" %}}\]
+Mesulam, M-Marsel, ed. Chapter 1 in _Principles of Behavioral and Cognitive Neurology_. 2nd ed. Oxford University Press, 2000,  pp. 76–8. ISBN: 9780195134759. \[Preview with [Google Books](http://books.google.com/books?id=kezqJb69OlAC&pg=PA1=onepage)\]
 
 
 {{< tdclose >}}
